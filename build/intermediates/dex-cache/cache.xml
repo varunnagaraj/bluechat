@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Varun Nagaraj\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_97ec11ebf361017e37a24a8f8ba4096549edac9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_f79a7c1a387816d8dd6022e07da06d0853ce4ae3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_fa4cdae3ceeb8f270b6c6cc9ee5df280268b2024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="076f6688612f26c51e2e08bce9e8aaa18d5e5b69">
+        <dex dex="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_55ef0edc045aec8ddcf208bf203d28b9b74bfb54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a909a46d23513d584131d23fa89d01d779b5f9df">
+        <dex dex="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_580c19f2744772893ae03aacb54aeba9647ac3e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Varun Nagaraj\AndroidStudioProjects\bluechat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_bc63b00c7876b541e5e1c26c8eb625c247dbd2bf\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Mon Feb 27 18:41:08 PST 2017
+base.0=C\:\\Users\\Varun Nagaraj\\AndroidStudioProjects\\bluechat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_55ef0edc045aec8ddcf208bf203d28b9b74bfb54
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Varun Nagaraj\\AndroidStudioProjects\\bluechat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_580c19f2744772893ae03aacb54aeba9647ac3e9\\classes.dex
+base.1=C\:\\Users\\Varun Nagaraj\\AndroidStudioProjects\\bluechat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_580c19f2744772893ae03aacb54aeba9647ac3e9
+file.0=C\:\\Users\\Varun Nagaraj\\AndroidStudioProjects\\bluechat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_55ef0edc045aec8ddcf208bf203d28b9b74bfb54\\classes.dex
